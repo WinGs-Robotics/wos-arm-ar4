@@ -1,0 +1,15 @@
+{
+    "key": "wos-arm-ar4",
+    "name": "WOS Arm ar4",
+    "description": "WOS Arm AR4 adds support for the AR4 robot arm. From Annie Robotics.",    
+    "version": "1.0.0",
+    "author": "WinGs Robotics",
+    "email": "info@wingsrobotics.com",
+    "icon": "ar4.jpg",
+    "github": "https://github.com/WinGs-Robotics/wos-arm-ar4",
+    "tags": [
+        "wos",
+        "arm",
+        "ar4"
+    ]
+}
